@@ -1,1 +1,1 @@
-https://www.codewars.com/users/aasdag/badges/large
+![CI](https://www.codewars.com/users/aasdag/badges/large)
